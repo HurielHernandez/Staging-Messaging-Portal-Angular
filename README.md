@@ -1,5 +1,6 @@
 # Staging Messaging Portal
 
+![ScreenShot](https://raw.github.com/HurielHernandez/Staging-Messaging-Portal-Angular/master/Screenshots/Screenshot.png)
 ## Setup
 
 * Ensure you have Node 4.4+ and NPM 3+ installed.
